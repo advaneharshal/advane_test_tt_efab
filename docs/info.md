@@ -8,12 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-"ADVANE TESTING"
-Explain how your project works
+ADVANE TESTING
 
 ## How to test
-
-Explain how to use your project
+Testing using cocotb
 
 ## External hardware
 
