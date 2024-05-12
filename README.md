@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
 # Tiny Tapeout Wokwi Project Template
-
+  Display 7 seg testing
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
